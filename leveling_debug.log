@@ -1,0 +1,7 @@
+2024-10-04 15:00:48,077 - INFO - LevelingCog initialized
+2024-10-04 15:00:48,077 - INFO - LevelingCog has been added to the bot
+2024-10-04 15:00:48,233 - DEBUG - ujson module not found, using json
+2024-10-04 15:00:48,233 - DEBUG - msgpack not installed, MsgPackSerializer unavailable
+2024-10-04 15:00:48,234 - DEBUG - msgpack not installed, MsgPackSerializer unavailable
+2024-10-04 15:00:48,267 - DEBUG - aiomcache not installed, Memcached unavailable
+2024-10-04 15:00:48,280 - INFO - Tables created successfully.
